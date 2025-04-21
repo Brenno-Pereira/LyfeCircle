@@ -1,9 +1,10 @@
 {
-[
+
 "produto":
-        {
-          "nome": "Televisão",
-          "preco": 12350.35
-        }
+        [
+                {
+                  "nome": "Televisão",
+                  "preco": 12350.35
+                }
         ]
 }   
